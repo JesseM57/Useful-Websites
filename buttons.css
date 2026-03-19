@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: bisque;
+}
+
+.btn {
+    color: white;
+    padding: 25px;
+    margin: 3px;
+    cursor: pointer;
+    margin: 3px;
+    border: black 3px solid;
+}
+
+.youtube {
+    background-color: red;
+    padding: 25px 50px;
+}
+
+.youtube:hover {
+    background-color: white;
+    color: red;
+}
+
+.google {
+    background-color: blue;
+    padding: 25px 50px;
+}
+
+.google:hover {
+    background-color: white;
+    color: blue;
+}
+.scratch {
+    background-color: orange;
+    padding: 25px 50px;
+}
+.scratch:hover {
+    background-color: white;
+    color: orange;
+}
+.canva {
+    background-color: blueviolet;
+    padding: 25px 50px;
+}
+.canva:hover {
+    background-color: white;
+    color: blueviolet;
+}
+.kahoot {
+    background-color: purple;
+    padding: 25px 50px;
+}
+.kahoot:hover {
+    background-color: white;
+    color: purple;
+}
+.khan {
+    background-color: aquamarine;
+    padding: 25px 50px;
+}
+.khan:hover {
+    background-color: white;
+    color: aquamarine;
+}
+.codeorg {
+    background-color: rgb(3, 204, 133);
+    padding: 25px 50px;
+}
+.codeorg:hover {
+    background-color:white;
+    color: rgb(3, 204, 133);
+}
